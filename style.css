@@ -1,4 +1,8 @@
 
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
 *{
     padding:0;
     margin-left:20px;
