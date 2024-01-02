@@ -1,0 +1,29 @@
+
+*{
+    padding:0;
+    margin-left:20px;
+
+}
+#imageinsert{
+
+    display:flex;
+    justify-content:auto;
+}
+#myid{
+    border-radius:50%;
+    border: solid black;
+}
+#navbar{
+    display:flex;
+    justify-content: space-evenly;
+    background-color:rgb(65, 4, 4);
+    
+}
+
+a{
+  color:rgb(255, 0, 212);
+    text-decoration:none;
+}
+span{
+    padding-top:25px;
+}
